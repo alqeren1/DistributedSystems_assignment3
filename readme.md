@@ -15,3 +15,9 @@ go run ./client
 Enter a unique username, then type messages and press enter to send.
 
 Type `/leave` to leave.
+
+![Server and client logs](serverlogs.png)
+Server Logs
+
+![Server and client logs](clientlogs.png)
+Client Logs
